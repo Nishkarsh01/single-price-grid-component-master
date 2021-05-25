@@ -10,7 +10,7 @@ This is a Simple Landing Page created using HTML, CSS (Flexbox)
 
 ## Live Demo 
 
- [https://nishkarsh01.github.io/-single-price-grid-component-master/](https://nishkarsh01.github.io/-single-price-grid-component-master/)
+ [https://nishkarsh01.github.io/single-price-grid-component-master/](https://nishkarsh01.github.io/single-price-grid-component-master/)
 
 ## Developed Using 💻
 
